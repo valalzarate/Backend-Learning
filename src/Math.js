@@ -9,3 +9,7 @@ function suma(a, b) {
 function potencia2(a,b){
     return Math.pow(a,b);
 }
+
+function dividir(a, b) {
+  return a / b;
+}
