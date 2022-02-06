@@ -5,3 +5,7 @@ function multiplicar(a, b) {
 function suma(a, b) {
   return a + b;
 }
+
+function potencia2(a,b){
+    return Math.pow(a,b);
+}
